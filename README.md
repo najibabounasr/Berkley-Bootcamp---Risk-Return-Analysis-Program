@@ -1,5 +1,5 @@
 # Berkley-Bootcamp---Risk-Return-Analysis-Program
-A Risk-Return Analyzer focused on providing investors with information on: Performance , Volatility , Risk,  Risk-return profile,  Portfolio diversification
+A Risk-Return Analyzer focused on providing investors with information on: Performance , Volatility , Risk,  Risk-return profile, and Portfolio diversification.
 
 ---
 
@@ -364,13 +364,13 @@ The sole contributor for this project is:
 **NAJIB ABOU NASR**
  no instagram or linkedin yet!
 
----
+--
 
 ## License
 
 Using the 'MIT' license!
 
-
+--
 ## History
 
 ### 
